@@ -22,21 +22,21 @@
 
 ### 2.4.3 (Jun 19, 2019)
 
--   docs: Improved documentation and removed text that implies iOS only ([#130](https://github.com/apache/cordova-plugin-statusbar/issues/130)) ([`33e410a`](https://github.com/apache/cordova-plugin-statusbar/commit/33e410a), [`14b1513`](https://github.com/apache/cordova-plugin-statusbar/commit/14b1513))
--   docs: Alpha example doesn't match description ([#100](https://github.com/apache/cordova-plugin-statusbar/issues/100)) ([`5b77cae`](https://github.com/apache/cordova-plugin-statusbar/commit/5b77cae), [`9b5baa2`](https://github.com/apache/cordova-plugin-statusbar/commit/9b5baa2))
--   chore(types): remove version from types ([`fade76b`](https://github.com/apache/cordova-plugin-statusbar/commit/fade76b))
--   chore: fix github issues link ([`288bd71`](https://github.com/apache/cordova-plugin-statusbar/commit/288bd71))
--   docs: remove outdated translations ([`8dacefa`](https://github.com/apache/cordova-plugin-statusbar/commit/8dacefa))
--   build: add `.npmignore` to remove unneeded files from npm package ([`84081de`](https://github.com/apache/cordova-plugin-statusbar/commit/84081de))
--   build: add `.gitattributes` to force LF (instead of possible CRLF on Windows) ([`da6c2a8`](https://github.com/apache/cordova-plugin-statusbar/commit/da6c2a8))
--   ci(travis): Update Travis CI configuration for new paramedic ([#139](https://github.com/apache/cordova-plugin-statusbar/issues/139)) ([`a538bfe`](https://github.com/apache/cordova-plugin-statusbar/commit/a538bfe))
--   feat: update typings ([#132](https://github.com/apache/cordova-plugin-statusbar/issues/132)) ([`003fa61`](https://github.com/apache/cordova-plugin-statusbar/commit/003fa61))
--   chore: drop Node.js v4 support ([#124](https://github.com/apache/cordova-plugin-statusbar/issues/124)) ([`a07612a`](https://github.com/apache/cordova-plugin-statusbar/commit/a07612a))
--   chore(github): Add or update GitHub pull request and issue template ([`727eea3`](https://github.com/apache/cordova-plugin-statusbar/commit/727eea3))
--   docs: remove JIRA link ([`adcee9f`](https://github.com/apache/cordova-plugin-statusbar/commit/adcee9f))
--   ci(travis): also accept terms for android sdk `android-27` ([`c8a13b8`](https://github.com/apache/cordova-plugin-statusbar/commit/c8a13b8))
--   docs: remove second title headline ([`ecf8ccd`](https://github.com/apache/cordova-plugin-statusbar/commit/ecf8ccd))
--   docs: Add Android overlay support to README ([#97](https://github.com/apache/cordova-plugin-statusbar/issues/97)) ([`e0256b2`](https://github.com/apache/cordova-plugin-statusbar/commit/e0256b2), [`053a902`](https://github.com/apache/cordova-plugin-statusbar/commit/053a902))
+-   docs: Improved documentation and removed text that implies iOS only ([#130](https://github.com/apache/cordova-plugin-statusbar-xjp/issues/130)) ([`33e410a`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/33e410a), [`14b1513`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/14b1513))
+-   docs: Alpha example doesn't match description ([#100](https://github.com/apache/cordova-plugin-statusbar-xjp/issues/100)) ([`5b77cae`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/5b77cae), [`9b5baa2`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/9b5baa2))
+-   chore(types): remove version from types ([`fade76b`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/fade76b))
+-   chore: fix github issues link ([`288bd71`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/288bd71))
+-   docs: remove outdated translations ([`8dacefa`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/8dacefa))
+-   build: add `.npmignore` to remove unneeded files from npm package ([`84081de`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/84081de))
+-   build: add `.gitattributes` to force LF (instead of possible CRLF on Windows) ([`da6c2a8`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/da6c2a8))
+-   ci(travis): Update Travis CI configuration for new paramedic ([#139](https://github.com/apache/cordova-plugin-statusbar-xjp/issues/139)) ([`a538bfe`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/a538bfe))
+-   feat: update typings ([#132](https://github.com/apache/cordova-plugin-statusbar-xjp/issues/132)) ([`003fa61`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/003fa61))
+-   chore: drop Node.js v4 support ([#124](https://github.com/apache/cordova-plugin-statusbar-xjp/issues/124)) ([`a07612a`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/a07612a))
+-   chore(github): Add or update GitHub pull request and issue template ([`727eea3`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/727eea3))
+-   docs: remove JIRA link ([`adcee9f`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/adcee9f))
+-   ci(travis): also accept terms for android sdk `android-27` ([`c8a13b8`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/c8a13b8))
+-   docs: remove second title headline ([`ecf8ccd`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/ecf8ccd))
+-   docs: Add Android overlay support to README ([#97](https://github.com/apache/cordova-plugin-statusbar-xjp/issues/97)) ([`e0256b2`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/e0256b2), [`053a902`](https://github.com/apache/cordova-plugin-statusbar-xjp/commit/053a902))
 
 
 ### 2.4.2 (Apr 12, 2018)
@@ -115,7 +115,7 @@
 * Added `weakSelf` reference for block use
 * Fixes [CB-4712](https://issues.apache.org/jira/browse/CB-4712), [CB-5439](https://issues.apache.org/jira/browse/CB-5439) statusbar issues
 * Fixing contribute link.
-* [CB-7965](https://issues.apache.org/jira/browse/CB-7965) Add cordova-plugin-statusbar support for **Browser** platform
+* [CB-7965](https://issues.apache.org/jira/browse/CB-7965) Add cordova-plugin-statusbar-xjp support for **Browser** platform
 * Don't use `IsAtLeastiOSVersion` macro to determine height
 * Use correct statusbar height for landscape orientation in iOS >= 8
 * remove travis-ci
@@ -126,7 +126,7 @@
 ### 1.0.1 (Jun 17, 2015)
 * add auto-tests for basic api
 * [CB-9180](https://issues.apache.org/jira/browse/CB-9180) Add correct supported check for **Windows 8.1** desktop
-* [CB-9128](https://issues.apache.org/jira/browse/CB-9128) cordova-plugin-statusbar documentation translation: cordova-plugin-statusbar
+* [CB-9128](https://issues.apache.org/jira/browse/CB-9128) cordova-plugin-statusbar-xjp documentation translation: cordova-plugin-statusbar-xjp
 * fix npm md issue
 
 ### 1.0.0 (Apr 15, 2015)
@@ -140,7 +140,7 @@
 * - Add support for StatusBar.backgroundColorByHexString (and StatusBar.backgroundColorByName) on Android 5 and up
 * Allow setting the statusbar backgroundcolor on Android
 * [CB-8575](https://issues.apache.org/jira/browse/CB-8575) Integrate TravisCI
-* [CB-8438](https://issues.apache.org/jira/browse/CB-8438) cordova-plugin-statusbar documentation translation: cordova-plugin-statusbar
+* [CB-8438](https://issues.apache.org/jira/browse/CB-8438) cordova-plugin-statusbar-xjp documentation translation: cordova-plugin-statusbar-xjp
 * [CB-8538](https://issues.apache.org/jira/browse/CB-8538) Added package.json file
 
 ### 0.1.10 (Feb 04, 2015)
@@ -150,12 +150,12 @@
 * Fix onload attribute within <feature> to be a <param>
 * [CB-8010](https://issues.apache.org/jira/browse/CB-8010) - Statusbar colour does not change to orange
 * added checks for running on windows when StatusBar is NOT available
-* [CB-7986](https://issues.apache.org/jira/browse/CB-7986) Add cordova-plugin-statusbar support for **Windows Phone 8.1**
+* [CB-7986](https://issues.apache.org/jira/browse/CB-7986) Add cordova-plugin-statusbar-xjp support for **Windows Phone 8.1**
 * [CB-7977](https://issues.apache.org/jira/browse/CB-7977) Mention `deviceready` in plugin docs
 * [CB-7979](https://issues.apache.org/jira/browse/CB-7979) Each plugin doc should have a ## Installation section
 * Inserting leading space after # for consistency
 * [CB-7549](https://issues.apache.org/jira/browse/CB-7549) - (Re-fix) `StatusBar` **iOS 8** Landscape issue (closes #15)
-* [CB-7700](https://issues.apache.org/jira/browse/CB-7700) cordova-plugin-statusbar documentation translation: cordova-plugin-statusbar
+* [CB-7700](https://issues.apache.org/jira/browse/CB-7700) cordova-plugin-statusbar-xjp documentation translation: cordova-plugin-statusbar-xjp
 * [CB-7571](https://issues.apache.org/jira/browse/CB-7571) Bump version of nested plugin to match parent plugin
 
 ### 0.1.8 (Sep 17, 2014)

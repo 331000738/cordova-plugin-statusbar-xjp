@@ -1,18 +1,18 @@
 {
-  "name": "cordova-plugin-statusbar",
+  "name": "cordova-plugin-statusbar-xjp",
   "version": "3.0.0-dev",
   "description": "Cordova StatusBar Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-statusbar",
+    "id": "cordova-plugin-statusbar-xjp",
     "platforms": [
       "android",
       "ios",
       "windows"
     ]
   },
-  "repository": "github:apache/cordova-plugin-statusbar",
-  "bugs": "https://github.com/apache/cordova-plugin-statusbar/issues",
+  "repository": "github:apache/cordova-plugin-statusbar-xjp",
+  "bugs": "https://github.com/apache/cordova-plugin-statusbar-xjp/issues",
   "keywords": [
     "cordova",
     "statusbar",

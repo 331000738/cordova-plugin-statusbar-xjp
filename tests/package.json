@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-statusbar-tests",
+  "name": "cordova-plugin-statusbar-xjp-tests",
   "version": "3.0.0-dev",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-statusbar-tests",
+    "id": "cordova-plugin-statusbar-xjp-tests",
     "platforms": []
   },
   "keywords": [

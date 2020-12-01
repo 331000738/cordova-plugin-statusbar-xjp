@@ -1,3 +1,14 @@
+# cordova-plugin-statusbar-xjp
+
+cordova-plugin-statusbar最新版clone，据说修复了iOS13+摄像头打开头顶部状态栏覆盖问题。
+
+
+```bash
+yarn add -D cordova-plugin-statusbar-xjp
+cordova plugin add cordova-plugin-statusbar-xjp
+```
+
+
 ---
 title: Statusbar
 description: Control the device status bar.
@@ -23,9 +34,9 @@ description: Control the device status bar.
 
 |AppVeyor|Travis CI|
 |:-:|:-:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-statusbar?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-statusbar)|[![Build Status](https://travis-ci.org/apache/cordova-plugin-statusbar.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-statusbar)|
+|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-statusbar-xjp?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-statusbar-xjp)|[![Build Status](https://travis-ci.org/apache/cordova-plugin-statusbar-xjp.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-statusbar-xjp)|
 
-# cordova-plugin-statusbar
+# cordova-plugin-statusbar-xjp
 
 > The `StatusBar` object provides some functions to customize the iOS and Android StatusBar.
 
@@ -33,11 +44,11 @@ description: Control the device status bar.
 
 This installation method requires cordova 5.0+
 
-    cordova plugin add cordova-plugin-statusbar
+    cordova plugin add cordova-plugin-statusbar-xjp
 
 It is also possible to install via repo url directly ( unstable )
 
-    cordova plugin add https://github.com/apache/cordova-plugin-statusbar.git
+    cordova plugin add https://github.com/apache/cordova-plugin-statusbar-xjp.git
 
 
 Preferences
